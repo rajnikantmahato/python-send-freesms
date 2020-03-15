@@ -1,2 +1,6 @@
 # python-send-freesms
-it is python based daily 20 free sams
+it is python based you can send 20 sms par day free
+
+
+
+sh install.sh
